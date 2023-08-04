@@ -1,0 +1,20 @@
+/* LOGO -START  */
+.image-container {
+  padding: 20px;
+}
+/* LOGO - END */
+
+/* NAV BAR - START  */
+
+.mainNav {
+  display: flex;
+  background-color: #444;
+}
+
+.navLink {
+  text-decoration: none;
+  padding: 20px;
+
+  color: white;
+}
+/* NAV BAR - END  */
