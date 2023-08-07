@@ -1,4 +1,4 @@
-function Header() {
+function NavBar() {
     return (
       <header className="header-container">       
         <nav className='mainNav'>
@@ -19,4 +19,4 @@ function Header() {
     );
   }
   
-  export default Header;
+  export default NavBar;

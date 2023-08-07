@@ -1,7 +1,8 @@
 function About() {
   return (
-    <section className="about-container">
-      <div className=''>
+    <section className="about-container">      
+
+      <div className='about-text'>
         <h2>About</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
@@ -10,7 +11,7 @@ function About() {
         </p>
       </div>
 
-      <div className=''>
+      <div className='about-text'>
         <h2>Company</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
@@ -19,7 +20,7 @@ function About() {
         </p>
       </div>
 
-      <div className=''>
+      <div className='about-text'>
         <h2>Services</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
@@ -27,6 +28,7 @@ function About() {
           volutpat.
         </p>
       </div>
+
     </section>
   );
 }

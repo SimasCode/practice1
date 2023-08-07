@@ -1,6 +1,6 @@
 function Logo() {
     return (
-        <div className="image-container">            
+        <div className="logo-container">            
             <img src="/img/logo.svg" alt="logo-" />
         </div>
     )
